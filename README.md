@@ -4,7 +4,7 @@
   <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨🏽‍🎓</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Formação:</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Analise e Desenvolvimento de Sistemas - Cursando</font></font></strong>
 </p>
 <p align="left">
-  <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨‍💻</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Skills: </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> HTML, CSS</font></font></strong>
+  <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨‍💻</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Skills: </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> HTML, CSS, JavaScript, JQuery</font></font></strong>
 </p>
 <p align="left">
   <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💼</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ferramentas: </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VSCode, PhotoShop, Adobe FireWork, Git e GitHub.</font></font></strong>
