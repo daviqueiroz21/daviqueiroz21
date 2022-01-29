@@ -1,9 +1,9 @@
 ## Olá me chamo Davi Queiroz, criador de Web-Sites e estudante de tecnologia!
 <div class="ui" align="center" >
   <a href="https://github.com/daviqueiroz21">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daviqueiroz21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviqueiroz21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </b>
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviqueiroz21&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviqueiroz21&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"  align="left" ><br>
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
