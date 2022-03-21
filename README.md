@@ -1,4 +1,4 @@
-### Oi! Me chamo Leonel Barreto 🖖
+### Oi! Me chamo Davi Queiroz 🖖
 
 <p>👨‍🎓 Atualmente estou cursando Desenvolvimento de Software na Cubos Academy</p>
 <p>🎓 Sou Graduando em Analise e Desenvolvimento de Sistemas</p>
