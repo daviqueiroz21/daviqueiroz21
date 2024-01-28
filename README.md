@@ -5,7 +5,7 @@
 
 ### Sobre Mim
 - 👦🏾 Davi Silva Queiroz
-- 💼 Desenvolvedor Full Stack
+- 💼 Desenvolvedor Full Stack Pleno
 - 🎓 Formado em Análise e desenvolvimento de sistema
 - 📍 Baseado em Salvador Ba, Brasil
 - 📆 23 anos
